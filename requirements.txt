@@ -1,0 +1,6 @@
+streamlit>=1.40
+groq>=0.13
+scikit-learn>=1.5
+pypdf>=5.0
+numpy>=1.26
+pandas>=2.2
